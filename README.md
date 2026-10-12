@@ -61,7 +61,7 @@ I **architect and build** production-grade AI systems — from LLM-powered agent
 
 | Project | Architecture Focus | Stack |
 | :--- | :--- | :--- |
-| **[Agentic Research Assistant](link)** | Multi-agent orchestration, tool use, state management | LangGraph, AutoGen, Python |
+|  **[Agentic Research Assistant](https://github.com/tigayalakshit7-stack/agentic-research-assistant)** ⭐ | Multi-agent system that autonomously researches topics and generates cited reports | LangChain · Groq · Streamlit |
 | **[Production RAG System](link)** | Hybrid retrieval, re-ranking, evaluation pipeline | LangChain, ChromaDB, Ragas |
 | **[CV Defect Detection Pipeline](link)** | End-to-end ML pipeline with model serving | PyTorch, OpenCV, FastAPI, Docker |
 | **[Customer Churn Case Study](link)** | Business analysis + predictive modeling | Pandas, Scikit-learn, Power BI |
