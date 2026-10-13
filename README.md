@@ -59,12 +59,13 @@ I **architect and build** production-grade AI systems — from LLM-powered agent
 
 ## 🚀 Featured Projects
 
-| Project | Architecture Focus | Stack |
+| Project | What It Does | Stack |
 | :--- | :--- | :--- |
-|  **[Agentic Research Assistant](https://github.com/tigayalakshit7-stack/agentic-research-assistant)** ⭐ | Multi-agent system that autonomously researches topics and generates cited reports | LangChain · Groq · Streamlit |
-| **[Production RAG System](link)** | Hybrid retrieval, re-ranking, evaluation pipeline | LangChain, ChromaDB, Ragas |
-| **[CV Defect Detection Pipeline](link)** | End-to-end ML pipeline with model serving | PyTorch, OpenCV, FastAPI, Docker |
-| **[Customer Churn Case Study](link)** | Business analysis + predictive modeling | Pandas, Scikit-learn, Power BI |
+| **[Agentic Research Assistant](https://github.com/tigayalakshit7-stack/agentic-research-assistant)** ⭐ | Multi-agent system that autonomously researches topics and generates cited reports | LangChain · Groq · Streamlit |
+| **[Verifiable RAG](https://github.com/tigayalakshit7-stack/verifiable-rag)** ⭐ | Multi-hop RAG with claim-level citations and custom evaluation harness | Qdrant · fastembed · Streamlit |
+| **[CV Defect Detection Pipeline](link-will-add)** | End-to-end ML pipeline with model serving | PyTorch, OpenCV, Docker |
+| **[Customer Churn Case Study](link-will-add)** | Business analysis + predictive modeling | Pandas, Scikit-learn, Power BI |
+
 
 ---
 
